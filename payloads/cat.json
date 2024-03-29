@@ -1,0 +1,8 @@
+{
+    "type": "suggestion",
+    "content": null,
+    "attachment": {
+        "type": "ssml",
+        "content": "<speak><prosody rate=\"fast\">Hello<break time=\"3s\"/>May I help you with the application?</prosody></speak>"
+    }
+}
